@@ -1,1 +1,6 @@
 venv
+
+
+# 데이터셋이 너무 많음
+Pytorch_CNN_transfer_learning/seg_test/
+Pytorch_CNN_transfer_learning/seg_train/
